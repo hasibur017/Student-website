@@ -2,3 +2,17 @@
     background-color: rgb(4, 136, 252);
     margin: 5px;
 }
+
+@media only screen and (max-width:680px) {
+    #company {
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width:900px) {
+    #company {
+        display: none;
+    }
+
+}
